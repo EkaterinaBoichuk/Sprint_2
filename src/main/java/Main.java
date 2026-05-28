@@ -21,7 +21,7 @@ public class Main {
         System.out.println(cart.getTotalPriceWithDiscount());
         System.out.println(cart.getTotalVegetarianPrice());
 
-
+//fff
 
     }
 }
